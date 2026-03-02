@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Sou um desenvolvedor Full-stack em formação que se encontra atualmente cursando ADS no Instituto federal de Mato Grosso do sul
 
 
