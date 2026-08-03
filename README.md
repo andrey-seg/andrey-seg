@@ -10,7 +10,7 @@ My goal is to transform my ideas into code step by step while solving real-world
 
 <h1>=> Tech stack</h1>
 
-<div style = "display: inline_block">
+<div style = "display: inline_block" "gap: 10px">
    
    <img aling = center heigth = 60px width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
    <img aling = center heigth = 60px width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
@@ -20,7 +20,7 @@ My goal is to transform my ideas into code step by step while solving real-world
    <img aling = center heigth = 60px width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
    <img aling = center heigth = 60px width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
    <img aling = center heigth = 60px width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-   <img aling = center heigth = 10px width = 30px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+   <img aling = center heigth = 60px width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
           
           
 </div>
