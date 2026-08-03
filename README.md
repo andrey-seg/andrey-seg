@@ -5,8 +5,9 @@ Currently, I am constantly developing as a full-stack developer, specializing in
 My goal is to transform my ideas into code step by step while solving real-world, day-to-day problems.
 
 ## <div style= "display: inline_block"> 
+   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />       
    <i aling = center height = 30px width = 30px class="devicon-github-original-wordmark"></i>  => personal website (https://andrey-seg.github.io/andrey-seg/)
- <!div>
+    <!div>
 
 
 
