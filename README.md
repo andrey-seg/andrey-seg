@@ -5,7 +5,7 @@ Currently, I am constantly developing as a full-stack developer, specializing in
 My goal is to transform my ideas into code step by step while solving real-world, day-to-day problems.
 
 ## <div style= "display: inline_block"> 
-   <img aling = center heigth = 10px width = 30px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />  => personal website (https://andrey-seg.github.io/andrey-seg/)
+   <img aling = center heigth = 10px width = 30px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />  => personal website (https://andrey-seg.github.io/andrey-seg/)
  </div>
 
 
