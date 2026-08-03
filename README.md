@@ -4,7 +4,7 @@ I am a student of systems analysis and development at the Federal Institute of M
 Currently, I am constantly developing as a full-stack developer, specializing in web and web app development.
 My goal is to transform my ideas into code step by step while solving real-world, day-to-day problems.
 
-=> [!personal website (https://andrey-seg.github.io/andrey-seg/)]
+=> personal website (https://andrey-seg.github.io/andrey-seg/)
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Andrey segobia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrey.segobia.pro@gmail.com) 
