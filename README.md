@@ -12,6 +12,6 @@ My goal is to transform my ideas into code step by step while solving real-world
 
 <div style = "display: inline_block">
    
-   <img aling = center heigth = 50px width = 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+   <img aling = center heigth = 60px width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
     
 </div>
