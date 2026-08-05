@@ -1,6 +1,5 @@
 ## => About Me
 
-I am a student of systems analysis and development at the Federal Institute of Mato Grosso do Sul.
 Currently, I am constantly developing as a full-stack developer, specializing in web and web app development.
 My goal is to transform my ideas into code step by step while solving real-world, day-to-day problems.
 
